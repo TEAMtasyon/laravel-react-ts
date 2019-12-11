@@ -58,5 +58,5 @@
             "last 1 safari version"
         ]
     },
-    "proxy": "http://payroll.test"
+    "proxy": "http://yourbackendhosthere"
 }
